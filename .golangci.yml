@@ -1,0 +1,9 @@
+linters:
+  enable:
+    - staticcheck
+    - nilnil
+    - nilerr
+    - unparam
+    - gosimple
+    - errcheck
+    - govet
