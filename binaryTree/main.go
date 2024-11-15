@@ -201,8 +201,3 @@ func PostorderTraversalLeftRightCurr(root *BinaryTreeNode) {
 	processNode(root)
 
 }
-
-/*
-
-
- */
